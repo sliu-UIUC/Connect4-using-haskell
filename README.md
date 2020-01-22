@@ -20,4 +20,8 @@ Flag        | Long version     | Description
   -i        | --interactive    | Start a new game and play against the computer
   
 
-For instance, to play 1 on 1 interactive game. Type "Main -i" after you have compiled the project.
+For instance, to play 1 on 1 interactive game after successful compilation, run: 
+
+```haskell
+Main -i
+```
