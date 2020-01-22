@@ -17,7 +17,7 @@ Flag        | Long version     | Description
 ----------- | ---------------- | --------------------------------------------------------------------------------------:
   -h        | --help           | Print out a help message and quit the program
   -w        | --winner         | Print out who will win this game, using an exhaustive search (no cut-off depth)
-  -d <num>  | --depth=<num>    | Use <num> as a cutoff depth, instead of your default
+  -d \<num\>| --depth=<num>    | Use <num> as a cutoff depth, instead of your default
   -m <num>  | --move=<num>     | Make <move> and print out the resulting board, in the input format, to stdout
   -v        | --verbose        | Output both the move and a description of how good it is: win, lose, tie, or a rating
   -i        | --interactive    | Start a new game and play against the computer
